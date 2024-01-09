@@ -45,5 +45,5 @@ Other utilities:
 
 
 
-[linkedin]: https://www.linkedin.com/in/ivanoyola/
+[linkedin]: https://www.linkedin.com/in/ivánromerooyola/
 [Gmail]: mailto:ivanoyola07@gmail.com
