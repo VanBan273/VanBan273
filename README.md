@@ -5,8 +5,8 @@
 
 
 ## Hi! I'm Iván Oyola👋 
-[<img align='left' alt=' alescofet | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
-[<img align='left' alt=' alescofet | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
+[<img align='left' alt=' alescofet | LinkedIn' width='32px' src='https://cdn-icons-png.flaticon.com/512/145/145807.png' />][linkedin]
+[<img align='left' alt=' alescofet | Gmail' width='32px' src='https://cdn-icons-png.flaticon.com/512/5968/5968534.png' />][Gmail]
 
 <br/><hr>
 ### I'm a Junior FullStack Developer.
